@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Kỹ Năng & Dịch Vụ - Võ Anh Khoa</title>
+    <style>
+        /* CSS để đồng bộ với các trang khác */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Màu nền trang web: Xanh dương */
+            color: #333; /* Màu chữ chính: Đen */
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0056b3; /* Màu tiêu đề chính: đỏ */
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+
+        h2, h3 {
+            color: #007bff; /* Màu tiêu đề phụ: Xanh dương */
+        }
+
+        /* Định dạng cho tất cả các đường liên kết */
+        a {
+            color: #007bff; /* Màu đường link */
+            text-decoration: none; /* LOẠI BỎ GẠCH CHÂN */
+        }
+
+        /* Hiệu ứng khi di chuột qua đường link */
+        a:hover {
+            color: #0056b3; /* Màu link khi di chuột: Xanh đậm */
+            text-decoration: underline; /* Thêm lại gạch chân khi di chuột */
+        }
+
+        /* Danh sách Kỹ năng/Menu */
+        ul {
+            list-style: none; /* Loại bỏ dấu chấm đầu dòng cho Menu/Kỹ năng */
+            padding-left: 0;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+        }
+
+        /* Danh sách Dịch vụ */
+        ol {
+            padding-left: 20px;
+        }
+        
+        ol li {
+            margin-bottom: 10px;
+        }
+
+
+        hr {
+            border: 0;
+            height: 1px;
+            background-color: #ccc;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #e9ecef; /* Màu nền footer: Xám rất nhạt */
+            color: #6c757d;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kỹ Năng & Lĩnh Vực Chuyên Môn</h1>
+    
+    <h2>Võ Anh Khoa</h2>
+
+    <p>Dưới đây là tổng hợp các kỹ năng chuyên môn và các dịch vụ tôi có thể cung cấp:</p>
+    
+    <h3>1. Kỹ Năng Photoshop (Technical Skills)</h3>
+    <ul>
+        <li><strong>Chỉnh ảnh:</strong> [Ví dụ: Bị mờ, nhòe, không ưng ý]</li>
+    </ul>
+
+    <h3>2. Dịch Vụ & Lĩnh Vực Làm Việc</h3>
+    <ol>
+        <li>**chỉnh sửa ảnh:** [Ví dụ: chỉnh sửa tấm ảnh bị mờ, nhòe ]</li>

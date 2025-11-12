@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Thông Tin Cá Nhân - Võ Anh Khoa</title>
+    <style>
+        /* CSS để đồng bộ với Trang Chủ */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Màu nền trang web: xanh dương */
+            color: #333; /* Màu chữ chính: Đen */
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0056b3; /* Màu tiêu đề chính: đỏ */
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+
+        h2, h3 {
+            color: #007bff; /* Màu tiêu đề phụ: Xanh đậm */
+        }
+
+        /* Định dạng cho tất cả các đường liên kết */
+        a {
+            color: #007bff; /* Màu đường link */
+            text-decoration: none; /* LOẠI BỎ GẠCH CHÂN */
+        }
+
+        /* Hiệu ứng khi di chuột qua đường link */
+        a:hover {
+            color: #0056b3; /* Màu link khi di chuột: Xanh đậm */
+            text-decoration: underline; /* Thêm lại gạch chân khi di chuột */
+        }
+
+        ul {
+            list-style: none; /* Loại bỏ dấu chấm đầu dòng */
+            padding-left: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background-color: #ccc;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #e9ecef; /* Màu nền footer: Xám rất nhạt */
+            color: #6c757d;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Thông Tin Cá Nhân & Liên Hệ</h1>
+    
+    <h2>Nguyễn Huy Hoàng</h2>
+
+    <p>Dưới đây là một số thông tin cơ bản và cách thức liên lạc với tôi.</p>
+    
+    <h3>Chi Tiết Cá Nhân</h3>
+    <ul>
+        <li><strong>Ngày sinh:</strong> [07/05/2009]</li>
+        <li><strong>Quê quán:</strong> [Thành phố Nha Trang]</li>
+        <li><strong>Trình độ học vấn:</strong> [Trung học cơ sở]</li>
+        <li><strong>Sở thích:</strong> [Photoshop]</li>
+    </ul>
+
+    <h3>Liên Hệ</h3>
+    <ul>
+        <li><strong>Email:</strong> <a href="mailto:voanhkhoa@gmail.com">[voanhkhoa@gmail.com]</a></li>
+        <li><strong>Điện thoại:</strong> [0792515007]</li>
+        <li><strong>Địa chỉ hiện tại:</strong> [Vĩnh Phương]</li>
+        <li><strong>GitHub/Portfolio:</strong> <a href="[Đường dẫn GitHub của bạn]" target="_blank">[Đường dẫn GitHub của bạn]</a></li>
+    </ul>

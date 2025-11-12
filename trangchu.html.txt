@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang Chủ - Võ Anh Khoa </title>
+    <style>
+        /* CSS BẮT ĐẦU TẠI ĐÂY */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Màu nền trang web: xanh dương */
+            color: #333; /* Màu chữ chính: Đen */
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0056b3; /* Màu tiêu đề chính: Đỏ */
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+
+        h2, h3 {
+            color: #007bff; /* Màu tiêu đề phụ: Đỏ  */
+        }
+
+        /* Định dạng cho tất cả các đường liên kết */
+        a {
+            color: #007bff; /* Màu đường link */
+            text-decoration: none; /* LOẠI BỎ GẠCH CHÂN */
+        }
+
+        /* Hiệu ứng khi di chuột qua đường link */
+        a:hover {
+            color: #0056b3; /* Màu link khi di chuột: Xanh đậm */
+            text-decoration: underline; /* Thêm lại gạch chân khi di chuột */
+        }
+
+        ul {
+            list-style: none; /* Loại bỏ dấu chấm đầu dòng */
+            padding-left: 0;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background-color: #ccc;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #e9ecef; /* Màu nền footer: Xám rất nhạt */
+            color: #6c757d;
+            border-top: 1px solid #ccc;
+        }
+        /* CSS KẾT THÚC TẠI ĐÂY */
+    </style>
+</head>
+<body>
+    <h1>Chào mừng đến với Trang Chủ của Võ Anh Khoa!</h1>
+    
+    <p>
+        Xin chào! Tôi là <strong>Võ Anh Khoa</strong>, đây là trang web cá nhân nơi tôi chia sẻ thông tin về bản thân và các dịch vụ tôi cung cấp.
+    </p>
+
+    <h2>Giới Thiệu Sơ Lược</h2>
+    <p>
+        Tôi hiện đang học tập/làm việc trong lĩnh vực [Photoshop]. 
+        Mục tiêu của tôi là [Thợ Photoshop chuyên nghiệp ].
+    </p>
+
+    <h3>Menu Điều Hướng</h3>
+    <ul>
+        <li><a href="trangchu.html">Trang Chủ</a></li>
+        <li><a href="thongtin.html">Thông Tin Cá Nhân & Liên Hệ</a></li>
+        <li><a href="dichvu.html">Kỹ Năng & Dịch Vụ</a></li>
+    </ul>
+
+    <hr>
+    <footer>
+        <p>&copy; 2025 Võ Anh Khoa. Trang web cá nhân.</p>
+    </footer>
+</body>
+</html>
